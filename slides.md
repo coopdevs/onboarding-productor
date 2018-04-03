@@ -61,7 +61,7 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ### Afegir productes
 
-![](images/productes.png)
+![](images/products.png)
 
 ---
 
