@@ -140,4 +140,4 @@ Des de la secció d'administració:
 
 ## Preguntes?
 
-[community.coopdevs.org](community.coopdevs.org)
+Trobareu la comunitat a [community.coopdevs.org](community.coopdevs.org)
